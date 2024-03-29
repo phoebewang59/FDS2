@@ -8,9 +8,9 @@ Topics covered: Python Programming, Data Visualization, Data Wrangling, Machine 
 ## Homework that demonstrates understanding:
 
 ### Data Wrangling
-[Evaluating consistencies among doctors](data wrangling II
+[Evaluating consistencies among doctors](homework/tu14_DataWranglingII_HW.ipynb)
 
-[Remove invalid rows in data]
+[Remove invalid rows in data](homework/tu15_WranglingIII_HW.ipynb)
 
 ### Linear regression
 [Linear regression](Linear regression I
