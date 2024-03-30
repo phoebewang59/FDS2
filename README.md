@@ -13,7 +13,7 @@ Topics covered: Python Programming, Data Visualization, Data Wrangling, Machine 
 [Remove invalid rows in data](homework/tu15_WranglingIII_HW.ipynb)
 
 ### Linear Regression
-[Linear regression](Linear regression I
+
 
 
 ### Multi-Axis Figures
@@ -25,4 +25,4 @@ Topics covered: Python Programming, Data Visualization, Data Wrangling, Machine 
 
 
 ### Simulation
-[Election simulation](SimulationsI_HW
+
