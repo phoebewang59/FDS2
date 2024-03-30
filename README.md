@@ -16,10 +16,10 @@ Topics covered: Python Programming, Data Visualization, Data Wrangling, Machine 
 [Linear regression](Linear regression I
 
 ### Multi-axis Figures
-[Evaluate Test A vs. Test B](multiAxisFigs_2_HW
+[Evaluate Test A vs. Test B](homework/tu_10_multiAxisFigs_2_HW.ipynb)
 
 ### Pandas
-[Analyzing Titanic dataset](PandasReview_HW
+[Analyzing Titanic dataset](homework/tu11_re_PandasReview_HW.ipynb)
 
 ### Simulation
 [Election simulation](SimulationsI_HW
