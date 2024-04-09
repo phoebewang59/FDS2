@@ -13,16 +13,14 @@ Topics covered: Python Programming, Data Visualization, Data Wrangling, Machine 
 [Remove invalid rows in data](homework/tu15_WranglingIII_HW.ipynb)
 
 ### Linear Regression
-
+[Comparing model fits with data](homework/tu17_LinearRegression_I_HW.ipynb)
 
 
 ### Multi-Axis Figures
 [Evaluate Test A vs. Test B](homework/tu_10_multiAxisFigs_2_HW.ipynb)
 
 
-### Pandas
-[Analyzing Titanic dataset](homework/tu11_re_PandasReview_HW.ipynb)
+### Machine Learning
 
 
-### Simulation
 
